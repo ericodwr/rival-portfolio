@@ -139,7 +139,7 @@ to Promote Brand Acer Predator`}
         {/* Projects Section */}
 
         {/* Contact */}
-        <section className="my-12 flex flex-col justify-center items-center">
+        <section className="my-12 flex flex-col justify-center items-center text-white">
           <h1 className="xl:text-8xl text-4xl text-center leading-normal xl:leading-loose xl:px-56 font-light">
             Make your videos to the next quality
           </h1>
