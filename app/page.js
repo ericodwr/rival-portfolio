@@ -50,7 +50,7 @@ export default function Home() {
               <h1>Hey I'm Mrivaal</h1>
               <h1 className="text-[#FF7F01]">Freelance Video Editor</h1>
             </div>
-            <p className="xl:pl-4 text-justify xl:text-2xl leading-9">
+            <p className="text-white xl:pl-4 text-justify xl:text-2xl leading-9">
               I have been a video editor for 6 years. I have worked on a wide
               variety of video projects and I always set professional standards
               for the videos I manage from file organization, timing, and
